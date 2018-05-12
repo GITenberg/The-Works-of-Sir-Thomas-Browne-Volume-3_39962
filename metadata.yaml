@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '40546'
     url: http://www.gutenberg.org/2009/agents/40546
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39962#The-Works-of-Sir-Thomas-Browne-Volume-3
 gutenberg_issued: '2012-11-05'
 gutenberg_type: Text
 identifiers:
